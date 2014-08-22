@@ -1,7 +1,7 @@
 {
       "name":           "ee-mysql"
     , "description":    "mysql connector supporting transactions and pooling"
-    , "version":        "0.1.9"
+    , "version":        "0.1.10"
     , "homepage":       "https://github.com/eventEmitter/ee-mysql"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
@@ -14,11 +14,11 @@
         "url":          "https://github.com/eventEmitter/ee-mysql/issues"
     }
     , "dependencies": {
-          "ee-class":   "*"
-        , "ee-event":   "*"
-        , "ee-log":     "*"
-        , "ee-argv":    "*"
-        , "ee-waiter":  "*"
+          "ee-class":   "0.4.x"
+        , "ee-event":   "0.1.x"
+        , "ee-log":     "0.2.x"
+        , "ee-argv":    "0.1.x"
+        , "ee-waiter":  "0.1.x"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}

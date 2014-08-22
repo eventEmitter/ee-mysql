@@ -7,7 +7,7 @@
 	var pool = new MySQLPool( {
 		database:					"eventbox"
 		, hosts: [ {
-			  host: 				"10.0.100.1"
+			  host: 				"10.80.100.1"
 			, port: 				3306
 			, user: 				"root"
 			, password: 			""

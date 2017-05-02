@@ -1,6 +1,8 @@
 ee-mysql
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-mysql.svg)](https://greenkeeper.io/)
+
 mysql connector supporting transactions and pooling
 
 
